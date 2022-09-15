@@ -1,0 +1,8 @@
+node_modules/
+*.lock
+
+.DS_Store
+ios/build/
+android/build/
+
+

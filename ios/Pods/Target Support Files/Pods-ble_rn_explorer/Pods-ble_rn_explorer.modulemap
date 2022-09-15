@@ -1,0 +1,6 @@
+module Pods_ble_rn_explorer {
+  umbrella header "Pods-ble_rn_explorer-umbrella.h"
+
+  export *
+  module * { export * }
+}
