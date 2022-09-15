@@ -3,6 +3,8 @@ node_modules/
 
 .DS_Store
 ios/build/
+ios/Pods/
+ios/Podfile
 android/build/
 android/.gradle/
 android/app/build/
